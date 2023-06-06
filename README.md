@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/13468728/222973742-9133bdb5-61f0-4f53-8b08-bb3c349e2056.png" title="Frontend Mentor" alt="Frontend Mentor" width="50" height="50"/> Guess My Number
+# <img src="https://github.com/ecemgo/guess-my-number/assets/13468728/6530aacf-495e-4e27-8345-9eb793c8211f" title="Frontend Mentor" alt="Frontend Mentor" width="50" height="50"/> Guess My Number
 
 ## Table of contents
 
