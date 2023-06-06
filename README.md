@@ -19,7 +19,8 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<div align="left">
+<img src=./screenshot.jpg title="draggable image slider" alt="draggable image slider" width="800" height="600"/>
 
 ## My process
 
