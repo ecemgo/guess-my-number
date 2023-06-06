@@ -13,7 +13,7 @@
 
 ## Overview
 
-### Links
+### Link
 
 - [Live Site](https://ecemgo-guess-my-number.netlify.app/)
 
