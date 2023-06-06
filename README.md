@@ -3,8 +3,8 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
   - [Built with](#built-with)
@@ -13,13 +13,13 @@
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
 - [Live Site](https://ecemgo-guess-my-number.netlify.app/)
+
+### Screenshot
+
+![](./screenshot.jpg)
 
 ## My process
 
