@@ -31,7 +31,6 @@ DOM is a structured representation of HTML documents. It allows JS to access HTM
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Javascript DOM manipulation
 
 ### Useful resources
